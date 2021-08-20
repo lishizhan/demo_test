@@ -13,3 +13,16 @@ hello lishizhan
 hello lishizhan
 hello lishizhan
 hello lishizhan-------------------------------------
+
+hello git->
+	git add 文件名
+	git commit -m "日志信息" 文件名
+	git status  查看本地库状态
+	git int 初始化本地库
+	git reflog 查看版本信息
+	git log 查看详细的版本信息
+	git rm --cached 文件名  删除暂存区文件
+
+
+
+
