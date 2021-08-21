@@ -37,3 +37,12 @@ public static void main(String[] main){
 
 }
 
+class Test{
+	private String name;
+	private String gender;
+	private int age;
+
+}
+
+
+
